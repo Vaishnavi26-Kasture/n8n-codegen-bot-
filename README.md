@@ -33,3 +33,22 @@ This repo includes:
 This is the visual layout of the AI chatbot built using n8n:
 
 ![Workflow Diagram](n8n_chatbot.png)
+
+
+# n8n CodeGen Chatbot 🤖
+
+This is a chatbot built using **n8n**, powered by **Gemini**, with code generation and review capabilities.
+
+---
+
+
+## 💬 Sample Q&A
+
+### Question 
+> ![Workflow Diagram](n8n1.png)
+>
+> ![Workflow Diagram](n8n2.png)
+>
+> ![Workflow Diagram](n8n3.png)
+>
+> ![Workflow Diagram](n8n4.png)
