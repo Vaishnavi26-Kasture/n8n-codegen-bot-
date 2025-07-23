@@ -26,4 +26,10 @@ This is a no-code AI chatbot built using [n8n](https://n8n.io/) that can generat
 
 This repo includes:
 
-- `n8n-codegen-bot.json`: the workflow file to import into n8n.
+- `1st Chatbot.json`: the workflow file to import into n8n.
+
+## 🧭 Workflow Diagram
+
+This is the visual layout of the AI chatbot built using n8n:
+
+![Workflow Diagram](n8n_chatbot.png)
